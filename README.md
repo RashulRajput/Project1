@@ -4,7 +4,7 @@ Sure! Here's an attractive and comprehensive README for your NFT collection scri
 
 # NFT Collection Script
 
-Welcome to the NFT Collection script repository! This JavaScript-based script allows you to mint, list, and get the total supply of NFTs. It provides a basic yet powerful way to manage a collection of NFTs, perfect for learning and development purposes.
+Welcome to the NFT Collection script repository! This JavaScript-based script allows you to mint, list, and get the total supply of NFTs. It provides a basic yet powerful way to manage a collection of NFTs, perfect for learning and development  purposes.
 
 ## Table of Contents
 - [Introduction](#introduction)
